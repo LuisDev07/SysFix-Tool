@@ -25,5 +25,6 @@ Herramienta de mantenimiento para Windows que ejecuta comandos útiles como `sfc
 
 ## 📄 Licencia
 
-MIT © 2025
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
 
