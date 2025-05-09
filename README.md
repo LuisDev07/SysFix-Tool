@@ -20,7 +20,8 @@ Herramienta de mantenimiento para Windows que ejecuta comandos útiles como `sfc
 
 ## 📷 Capturas
 
-![Demo](screenshot.png)
+![SysFix Tool](https://github.com/user-attachments/assets/ba056d72-0dc0-4961-bacd-db04bb043ba8)
+
 
 ## 📄 Licencia
 
