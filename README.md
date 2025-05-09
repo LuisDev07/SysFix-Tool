@@ -15,7 +15,7 @@ Herramienta de mantenimiento para Windows que ejecuta comandos útiles como `sfc
 
 ## 🔧 Instalación
 
-1. Descarga el `.exe` desde la sección [Releases](https://github.com/tu_usuario/tu_repo/releases).
+1. Descarga el `.exe` desde la sección [Releases](https://github.com/LuisDev07/SysFix-Tool/releases/tag/v1.0).
 2. Ejecuta el archivo como administrador.
 
 ## 📷 Capturas
